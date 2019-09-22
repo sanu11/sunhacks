@@ -1,0 +1,10 @@
+embeddedassistant.googleapis.com /Users/ssshah33/Library/Application Support/google-oauthlib-tool/credentials.json WinGAsstSanika WinGAsstSanika en-US
+<module 'click' from '/usr/local/lib/python3.7/site-packages/click/__init__.py'>
+: <you> What is the temperature in Tempe right now?
+WinGAsstSanika
+<@assistant> Today's temperature is just right
+The current temperature there is 23 degrees Celsius.
+---
+( More on weather.com )
+<module 'click' from '/usr/local/lib/python3.7/site-packages/click/__init__.py'>
+: 
